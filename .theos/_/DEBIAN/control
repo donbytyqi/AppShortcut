@@ -1,0 +1,10 @@
+Package: com.donbytyqi.appshortcut
+Name: AppShortcut
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: Quickly access your favorite apps!
+Maintainer: Don
+Author: Don
+Section: Tweaks
+Version: 0.0.1
+Installed-Size: 312
